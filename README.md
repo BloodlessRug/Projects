@@ -1,7 +1,7 @@
 # Projects
 Leveraged proficiency in C and Assembly languages to write efficient and reliable firmware for the microcontroller.
 
-Integrated and interfaced a variety of environmental sensors (light, temperature, and moisture) to capture and analyze precise data from the surroundings.
+Integrated and interfaced a variety of environmental sensors (light, temperature, moisture, and buzzer) to capture and analyze precise data from the surroundings.
 
 Created a unique feature set enabling the microcontroller to accurately distinguish between the summer and fall seasons based on the analyzed environmental data.
 
